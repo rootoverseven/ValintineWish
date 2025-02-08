@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+#root {
+  width: 100%;
+}
+
+.yes {
+  background-color:rgb(43, 151, 0);
+}
+
+.no {
+  background-color: rgb(143, 0, 0);
+}
