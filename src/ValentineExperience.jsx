@@ -66,7 +66,7 @@ const ValentineExperience = () => {
     }
 
     // Check if the code is correct
-    if (newCode.join('') === 'BOOBIES') {
+    if (newCode.join('') === 'LOZENGE') {
       setTimeout(() => setStage('proposal'), 1000);
     }
   };
